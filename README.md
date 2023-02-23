@@ -1,7 +1,7 @@
 # i3sEventProcessing
 README
 
-This project aims to preprocess an event-based lip reading dataset called 2022_i3s_EventLipReadingDataset for data analysis and experiments with the state-of-the-art MSTP algorithm. The following functions are included in the project:
+This project aims to preprocess an event-based lip reading dataset called [2022_i3s_EventLipReadingDataset](https://unice-my.sharepoint.com/:u:/g/personal/marcel-thomas_schweiker_etu_unice_fr/ER6pzPhLMWpPrI5doUP7HVQBl__Cpj3VIqI-clQ5vsRh2w?e=3w5bUo) for data analysis and experiments with the state-of-the-art MSTP algorithm. The following functions are included in the project:
 
     quadratic_crop_event(event, newsize): This function crops the input event stream to a quadratic shape with a specified size.
 
